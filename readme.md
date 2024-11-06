@@ -10,7 +10,6 @@ Since its inception, the stock market, one of the most financially turbulent mar
 
 - [Installation](#installation)
 - [Data](#data)
-- [Code](#code)
 - [Usage](#usage)
 - [Contributions](#contributions)
 
