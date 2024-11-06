@@ -1,6 +1,6 @@
-# Predicting NEPSE Index Using ARIMA Model
+<h1 align="center">Predicting NEPSE Index Using ARIMA Model</h1>
 
-**Author:** Avinash Maskey
+<p align="center"><strong>Author:</strong> Avinash Maskey</p>
 
 ## Abstract
 
